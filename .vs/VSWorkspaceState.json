@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\Core\\Entities",
+    "\\Infrastructure",
+    "\\Infrastructure\\Data",
+    "\\Infrastructure\\Data\\Migrations",
+    "\\Infrastructure\\obj"
+  ],
+  "SelectedNode": "\\Infrastructure\\Infrastructure.csproj",
+  "PreviewInSolutionExplorer": false
+}
