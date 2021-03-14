@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\API",
+    "\\API\\Controllers",
+    "\\API\\Helpers",
+    "\\Core",
     "\\Core\\Entities",
-    "\\Infrastructure",
-    "\\Infrastructure\\Data",
-    "\\Infrastructure\\Data\\Migrations",
-    "\\Infrastructure\\obj"
+    "\\Core\\Interfaces",
+    "\\Core\\Specifications",
+    "\\Infrastructure\\Data"
   ],
-  "SelectedNode": "\\Infrastructure\\Infrastructure.csproj",
+  "SelectedNode": "\\skinet.sln",
   "PreviewInSolutionExplorer": false
 }
