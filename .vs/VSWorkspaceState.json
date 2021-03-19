@@ -3,13 +3,9 @@
     "",
     "\\API",
     "\\API\\Controllers",
-    "\\API\\Helpers",
-    "\\Core",
-    "\\Core\\Entities",
-    "\\Core\\Interfaces",
-    "\\Core\\Specifications",
-    "\\Infrastructure\\Data"
+    "\\API\\Extensions",
+    "\\API\\Helpers"
   ],
-  "SelectedNode": "\\skinet.sln",
+  "SelectedNode": "\\API\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
