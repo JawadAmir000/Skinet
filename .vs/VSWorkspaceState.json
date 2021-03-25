@@ -3,9 +3,12 @@
     "",
     "\\API",
     "\\API\\Controllers",
-    "\\API\\Extensions",
-    "\\API\\Helpers"
+    "\\API\\Helpers",
+    "\\Core",
+    "\\Core\\Specifications",
+    "\\Infrastructure",
+    "\\Infrastructure\\Data"
   ],
-  "SelectedNode": "\\API\\Startup.cs",
+  "SelectedNode": "\\Core\\Specifications",
   "PreviewInSolutionExplorer": false
 }
