@@ -1,14 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
-    "\\API\\Controllers",
-    "\\API\\Helpers",
     "\\Core",
-    "\\Core\\Specifications",
-    "\\Infrastructure",
-    "\\Infrastructure\\Data"
+    "\\Core\\Entities",
+    "\\Infrastructure"
   ],
-  "SelectedNode": "\\Core\\Specifications",
+  "SelectedNode": "\\Infrastructure\\Data",
   "PreviewInSolutionExplorer": false
 }
